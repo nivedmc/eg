@@ -10,7 +10,7 @@ const BlankCard = () => {
       <Card.Body>
         <Card.Title>Your Title</Card.Title>
         <Card.Text>
-          Your content goes here. This is a blank card that you can customize.
+          Your content goes here. 
         </Card.Text>
       </Card.Body>
     </Card>
